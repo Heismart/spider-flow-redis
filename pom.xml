@@ -8,7 +8,7 @@
 	</parent>
 	<artifactId>spider-flow-redis</artifactId>
 	<name>spider-flow-redis</name>
-	<url>https://gitee.com/jmxd/spider-flow/tree/master/spider-flow-redis</url>
+	<url>https://gitee.com/jmxd/spider-flow-redis</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
